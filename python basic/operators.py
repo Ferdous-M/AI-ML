@@ -1,5 +1,5 @@
-a = 15
-b = 4
+a = int(input())
+b = int(input())
 
 print("Addition:", a + b)  
 
