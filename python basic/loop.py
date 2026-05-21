@@ -6,7 +6,10 @@
 # for i in range(len(a)):
 #     print(a[i])
 
-cnt=0
-while(cnt<3):
-    cnt=cnt+1
-    print(cnt)
+# cnt=0
+# while(cnt<3):
+#     cnt=cnt+1
+#     print(cnt)
+
+while(True):
+    print("I am Ferdous")
