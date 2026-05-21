@@ -11,5 +11,11 @@
 #     cnt=cnt+1
 #     print(cnt)
 
-while(True):
-    print("I am Ferdous")
+# while(True):
+#     print("I am Ferdous")
+
+n=5
+for i in range(0,5):
+    for j in range(0,i):
+     print(i, end=' ')
+    print()
